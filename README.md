@@ -29,12 +29,12 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/RaheesAhmed/-aI-powered-social-media-marketing.git
+   git clone https://github.com/RaheesAhmed/QOTD-Image-Generator.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd aI-powered-social-media-marketing
+   cd QOTD-Image-Generator
    ```
 
 3. Install the dependencies:
